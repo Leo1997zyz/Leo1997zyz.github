@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yizhou Zhang"
+title                    : "Your title"
 title_separator          : "-"
-name                     : &name "Yizhou Zhang"
-description              : &description "A student "
-url                      : https://Leo1997zyz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your title"
+description              : &description "des"
+url                      : https://.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Leo1997zyz/hh.github.io"
+repository               : ".github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Leo1997zyz"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
