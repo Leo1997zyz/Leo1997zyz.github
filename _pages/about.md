@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student in Peking University, majoring in Computer Science and Technology, advised by [Prof. Guojie Song](http://eecs.pku.edu.cn/teaching/inservice/search/detail/?id=5526). I also enjoy working with [Prof. Jian Tang](https://jian-tang.com/) as a research intern in the summer of 2019 in Montreal. I will join the University of Southern California as a PhD student in Fall 2019.
+I am an Ph.D student in the Department of Computer Science at the Viterbi School of Engineering, University of Southern Californi. I am advised by [Prof. Yan Liu](http://www-bcf.usc.edu/~liu32/). I received my bachelor degree from Peking University, working with [Prof. Guojie Song](http://eecs.pku.edu.cn/teaching/inservice/search/detail/?id=5526). I also enjoy working with [Prof. Jian Tang](https://jian-tang.com/) as a research intern in the summer of 2019 in Montreal.
